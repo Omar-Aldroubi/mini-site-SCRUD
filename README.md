@@ -1,4 +1,4 @@
-# 🇸🇾 Délices de Syrie - Projet TW3
+# 🇸🇾 Délices de Syrie - Mini Site CRUD
 
 Ce dépôt contient le code source de mon mini-site web dédié à la gastronomie syrienne.
 
